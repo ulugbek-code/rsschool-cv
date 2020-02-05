@@ -10,6 +10,7 @@
  * HTML5
  * CSS3
  * JS
+   * Jquery
  * Bootstrap4 
  ## Code Example:
  ```css
@@ -22,3 +23,11 @@
     <title>Document</title>
 </head>
 ```
+## Education
+#### Lyceum
+Chilonzor Academic Lyceum.
+### University
+Westminster International University in Tashkent.
+### English
+I have been learning English for 4 years. Currently I can travel anywhere without any translater. Because, The whole world is speaking English. Frankly speaking my speaking skill is not good but I am on my way to improve it. I always learn new words to speak better.
+
